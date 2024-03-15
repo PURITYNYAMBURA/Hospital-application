@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "110570090882",
+    "firebase_url": "https://nexicare-2555f-default-rtdb.firebaseio.com",
+    "project_id": "nexicare-2555f",
+    "storage_bucket": "nexicare-2555f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110570090882:android:dad9e0321da0cebe68df9b",
+        "android_client_info": {
+          "package_name": "com.example.nexicare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1TmiF0QNuVaGl6-w2VKrLb6oQUhr8Ick"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
